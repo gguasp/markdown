@@ -1,12 +1,12 @@
 ## Curriculum Viate
 ![Foto curriculum](https://cdn-icons-png.flaticon.com/256/8526/8526452.png)\
-Nombre: **Guillermo Guasp Martínez**
-Fecha de nacimiento: 01/11/1998
-Dirección: 
-07609 MALLORCA
-C/ Falcó nº5 P13
-Email: gguasp@cifpfbmoll.eu
-Web: [Portfolio](google.com)
+Nombre: **Guillermo Guasp Martínez**\
+Fecha de nacimiento: 01/11/1998\
+Dirección:\
+07609 MALLORCA\
+C/ Falcó nº5 P13\
+Email: gguasp@cifpfbmoll.eu\
+Web: [Portfolio](google.com)\
 
 ## Resumen
 ### Títulos académicos
